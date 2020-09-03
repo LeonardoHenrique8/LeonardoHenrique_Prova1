@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  div#container {
+    padding: 70px;
+    width: 900px;
+    border: 1px solid black;
+    margin: 35px auto;
+    
+  }
+
+  .cover{
+      margin-left: 98px;
+  }
+  
+  .cover li {
+    display: inline-block;
+    width: 32%;
+    height: 17px;
+  }
+  .cover2{
+    margin-left: 98px;
+  }
+  .cover2 li{
+    display: inline-block;
+    width: 29.1%;
+    height: 17px;
+  }
+
+  
+  img {
+    max-width: 100%;
+    
+  }
+  
